@@ -1,5 +1,5 @@
 # Land-Use-Simulation
-Multi-agent reinforcement learning model. This project is a simplified example of the long-term objective of this analysis. 
+Multi-agent reinforcement learning model. This project is a simplified example of understanding the interplay between profit-maximizing behavior of real estate developers with urban planning outcomes.
 
 ## Overview
 The Urban Development Simulation project creates a multi-agent environment to study the interplay between developer actions focused on maximizing rewards and broader urban planning objectives. Using a reinforcement learning approach, it models how individual decision-makers interact with and shape the urban landscape.
